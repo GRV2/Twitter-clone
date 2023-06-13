@@ -13,8 +13,7 @@ This is a mini Twitter clone application developed using the MERN Stack (MongoDB
 ## Installation
 
 1. Clone the repository:
-
-
+https://github.com/GRV2/Twitter-clone.git
 2. Change into the project directory:
 cd mini-twitter-clone
 3. Install the dependencies for the server:
