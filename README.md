@@ -18,7 +18,7 @@ https://github.com/GRV2/Twitter-clone.git
 cd mini-twitter-clone
 3. Install the dependencies for the server:
 npm install
-4.to run the project
+4.to run the project:
 node server.js
 
 Access the application in your web browser at: `http://localhost:3000`
